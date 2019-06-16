@@ -25,7 +25,7 @@ using namespace std;
 int main()
 {
 
-	printf("\t\t\t欢迎使用Hanko的文件系统使用帮助如下\n");
+	printf("\t\t\t欢迎使用YXJ的文件系统使用帮助如下\n");
 	show_help();
 	Init();
 	create(const_cast<char*>("lwmorz1"));
